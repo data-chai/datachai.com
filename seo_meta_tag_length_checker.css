@@ -65,7 +65,6 @@
     border-radius: 6px;
     padding: 10px;
     resize: vertical;
-    box-sizing: border-box;
 }
 
 .seo-tool-textarea::placeholder {
